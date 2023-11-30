@@ -36,8 +36,8 @@
 <h2 align="center">🧰 Languages | Frameworks | Tools 🧰</h2>
 <br/>
 <div align="center">
-    <img src="https://skillicons.dev/icons?i=react,bootstrap,mui,html,css,vscode,github,figma,tailwind,git,r" />
-    <img src="https://skillicons.dev/icons?i=nodejs,python,javascript,typescript,express,firebase,mongodb,c,java,nextjs,mysql,flask" /><br>
+    <img src="https://skillicons.dev/icons?i=stackoverflow,github,git,vscode,idea,docker,dotnet,linux,jenkins,raspberrypi,cloudflare,discord" />
+    <img src="https://skillicons.dev/icons?i=java,arduino,php,html,css,javascript,nodejs,typescript,express,mongodb,mysql" /><br>
 </div>
 
 <br/>
@@ -46,12 +46,11 @@
 <h2 align="center">⚡ Stats ⚡</h2>
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=fraujulian&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="FrauJulian" /></p>
-<p><img align="right" src="https://github-readme-stats.vercel.app/api?username=fraujulian&show_icons=true&locale=en&theme=tokyonight" alt="FrauJulian" /></p>
+<p><img align="center" src="https://github-readme-stats.vercel.app/api?username=fraujulian&show_icons=true&locale=en&theme=tokyonight" alt="FrauJulian" /></p>
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=fraujulian&&theme=tokyonight" alt="FrauJulian" /></p>
 
 <br/><br/>
 
 <hr/>
-
 
 <br/>
