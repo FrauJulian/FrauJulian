@@ -26,8 +26,8 @@
   <a href="mailto:fraujulian@lechner.top">
     <img src="https://img.shields.io/badge/mail-333333?style=for-the-badge&logo=gmail&logoColor=red" />
   </a>
-  <a href="https://salesp07.github.io" target="_blank">
-     <img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=white" target="_blank" /> <!-- sqlite, safari, google-chrome are other good icon options -->
+  <a href="https://fraujulian.xyz/" target="_blank">
+     <img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=white" target="_blank" />
   </a>
 </div>
 
@@ -45,7 +45,7 @@
 
 <h2 align="center">⚡ Stats ⚡</h2>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=fraujulian&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="FrauJulian" /></p>
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=fraujulian&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="FrauJulian" /></p>
 #
 <p><img align="center" src="https://github-readme-stats.vercel.app/api?username=fraujulian&show_icons=true&locale=en&theme=tokyonight" alt="FrauJulian" /></p>
 #
