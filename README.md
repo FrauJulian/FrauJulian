@@ -2,6 +2,8 @@
 
 **`Programmer | Supporter | Technican`**
 
+<img align="right" alt="Coding Image" width="400" src="https://upload.wikimedia.org/wikipedia/commons/6/6f/Programming123najra.gif">
+
 - 🔭 I’m currently working on [DownTownMC](https://DownTownMC.de/)!
 
 - 👯 I’m developing [SynRadio](https://SynRadio.de/)!
