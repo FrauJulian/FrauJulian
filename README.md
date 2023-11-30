@@ -1,7 +1,7 @@
 <img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=fraujulian.fraujulian" />
 
 <h1 align="center">
-    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+there!+👋;+I'm+Julian+Lechner+aka.+FrauJulian!;" />
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=6000&lines=Hi+there!+👋;+I'm+Julian+Lechner+|+FrauJulian;" />
 </h1>
 
 <h3 align="center">Programmer | Supporter | Technican</h3>
@@ -45,13 +45,11 @@
 
 <h2 align="center">⚡ Stats ⚡</h2>
 <br>
-<div align=center>
     <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=fraujulian&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="FrauJulian" /></p>
 
     <p><img align="center" src="https://github-readme-stats.vercel.app/api?username=fraujulian&show_icons=true&locale=en&theme=tokyonight" alt="FrauJulian" /></p>
 
     <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=fraujulian&&theme=tokyonight" alt="FrauJulian" /></p>
-</div>
 
 <br/><br/>
 
