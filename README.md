@@ -44,21 +44,14 @@
 <hr/>
 
 <h2 align="center">⚡ Stats ⚡</h2>
-<br>
-    <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=fraujulian&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="FrauJulian" /></p>
 
-    <p><img align="center" src="https://github-readme-stats.vercel.app/api?username=fraujulian&show_icons=true&locale=en&theme=tokyonight" alt="FrauJulian" /></p>
-
-    <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=fraujulian&&theme=tokyonight" alt="FrauJulian" /></p>
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=fraujulian&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="FrauJulian" /></p>
+<p><img align="center" src="https://github-readme-stats.vercel.app/api?username=fraujulian&show_icons=true&locale=en&theme=tokyonight" alt="FrauJulian" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=fraujulian&&theme=tokyonight" alt="FrauJulian" /></p>
 
 <br/><br/>
 
 <hr/>
 
-<br/>
-
-<div align="center">
-<a href='https://ko-fi.com/fraujulian' target='_blank'><img height='64' style='border:0px;height:64px;' src='https://storage.ko-fi.com/cdn/kofi1.png?v=3' border='0' alt='Buy Me a pizza!' /></a>
-</div>
 
 <br/>
