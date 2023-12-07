@@ -3,23 +3,22 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=fraujulian&label=Profile%20views&color=0e75b6&style=flat" alt="fraujulian" /> </p>
 
-- 🔭 I’m currently working on [DownTownMC](https://DownTownMC.de/)!
+- 🔭 I’m currently working on [SynHost](https://SynHost.de/)!
+- 🔭 I’m currently working on [SynRadio](https://SynRadio.de/)!
 - 🌱 I’m currently learning **Java**!
-- 👯 I’m developing [SynRadio](https://SynRadio.de/)!
-- 🤝 I help other people with [SynHost](https://SynHost.de/)!
-- 👨‍💻 All of my projects are available at [https://FrauJulian.xyz/](https://FrauJulian.xyz/)!
+- 👨‍💻 My full portfolio is available at [my Website](https://FrauJulian.xyz/)!
 
 #
 
 <h3>Contact me!</h3>
-<a href="mailto:fraujulian@lechner.top" class="contact-link">E-Mail ➜ fraujulian@lechner.top</a>
+<a href="mailto:fraujulian@lechner.top">E-Mail ➜ fraujulian@lechner.top</a>
 <br />
-<a href="tel:+436609254001" class="contact-link">Phone ➜ +43 660 9254001</a>
+<a href="tel:+436609254001">Phone ➜ +43 660 9254001</a>
 <br />
 <br />
-<a href="https://discord.com/users/860206216893693973" class="contact-link">Discord ➜ fraujulian</a>
+<a href="https://discord.com/users/860206216893693973">Discord ➜ fraujulian</a>
 <br />
-<a href="https://github.com/fraujulian" class="contact-link">Github ➜ fraujulian</a>
+<a href="https://github.com/fraujulian">Github ➜ fraujulian</a>
 
 #
 
