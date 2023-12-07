@@ -8,9 +8,7 @@
 - 🌱 I’m currently learning **Java**!
 - 👨‍💻 My full portfolio is available at [my Website](https://FrauJulian.xyz/)!
 
-#
-
-<h2 align="center">Languages | Frameworks | Tools</h2>
+<h2 align="center">🧰 Languages | Frameworks | Tools 🧰</h2>
 <div align="center">
   <img src="https://skillicons.dev/icons?i=stackoverflow,github,git,vscode,idea,docker,dotnet,linux,jenkins,raspberrypi,cloudflare,discord" />
   <img src="https://skillicons.dev/icons?i=java,arduino,php,html,css,javascript,nodejs,typescript,express,mongodb,mysql" />
