@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on [SynHost](https://SynHost.de/)!
 - 🔭 I’m currently working on [SynRadio](https://SynRadio.de/)!
-- 🌱 I’m currently learning **Java**!
+- 🌱 I am currently learning more about **Web Development**!
 - 👨‍💻 My full portfolio is available at [my Website](https://FrauJulian.xyz/)!
 
 ---
