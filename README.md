@@ -39,10 +39,4 @@
 
 <br>
 
-<h2 align="center">📱 Contact 📱</h2>
-<div align="center">
-<br>
-<a style="margin: 8px" href="mailto:fraujulian@lechner.top" onclick="plausible('envelope')" target="_blank"><i class="fa-solid fa-envelope fa-3x"></i></a>
-<a style="margin: 8px" href="tel:+436609254001" onclick="plausible('phone')" target="_blank"><i class="fa-solid fa-phone fa-3x"></i></a>
-<a style="margin: 8px" href="https://discord.com/users/860206216893693973" onclick="plausible('discord')" target="_blank"><i class="fab fa-discord fa-3x"></i></a>
-</div>
+<h3 align="center">You can find my contact information on<a href="https://www.fraujulian.xyz/"> my portfolio website</a>!</h2>
