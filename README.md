@@ -11,32 +11,31 @@
 
 - 🔭 I’m currently working on [SynHost](https://synhost.de/)
 - 🔭 I’m currently working on [SynRadio](https://www.synradio.de/)
-- 🤝 I’m looking for help with [NPM packages](https://www.npmjs.com/package/discord-audio-stream)
 - 👨‍💻 All of my projects are available at [my Website](https://www.fraujulian.xyz/)
-- 🌱 I’m currently learning **TS** and **C#**
+- 🌱 I’m currently learning **C#**!
 
 <br>
-
 
 <h2 align="center">🧰 Languages | Frameworks | Tools 🧰</h2>
 <div align="center">
-<br>
-<img src="https://skillicons.dev/icons?i=discord,github,stackoverflow,cloudflare,vscode,idea,git,nginx,docker,raspberrypi,linux,ubuntu"> 
-<br>
-<img src="https://skillicons.dev/icons?i=js,ts,html,css,nodejs,npm,express,pug,discordjs,dotnet,cs,mysql,sqlite"/> <br>
+  <br>
+  <img src="https://skillicons.dev/icons?i=discord,github,stackoverflow,cloudflare,vscode,idea,git,nginx,docker,raspberrypi,linux,ubuntu"> 
+  <br>
+  <img src="https://skillicons.dev/icons?i=js,ts,html,css,nodejs,npm,express,pug,discordjs,dotnet,cs,mysql,sqlite"/> <br>
 </div>
+
+<br>
+
 <h2 align="center">📊 Stats 📊</h2>
 <div align="center">
-
-<br>
-
-<p><img src="https://github-readme-stats.vercel.app/api/top-langs?username=fraujulian&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="fraujulian" /></p>
-<br>
-<p><img src="https://github-readme-stats.vercel.app/api?username=fraujulian&show_icons=true&locale=en&theme=tokyonight" alt="fraujulian" /></p>
-<br>
-<p><img src="https://github-readme-streak-stats.herokuapp.com/?user=fraujulian&&theme=tokyonight" alt="fraujulian" /></p>
+  <br>
+  <p><img src="https://github-readme-stats.vercel.app/api/top-langs?username=fraujulian&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="fraujulian" /></p>
+  <br>
+  <p><img src="https://github-readme-stats.vercel.app/api?username=fraujulian&show_icons=true&locale=en&theme=tokyonight" alt="fraujulian" /></p>
+  <br>
+  <p><img src="https://github-readme-streak-stats.herokuapp.com/?user=fraujulian&&theme=tokyonight" alt="fraujulian" /></p>
 </div>
 
 <br>
 
-<h3 align="center">You can find my contact information on<a href="https://www.fraujulian.xyz/"> my portfolio website</a>!</h2>
+<h3 align="center">You can find out more about me on <a href="https://www.fraujulian.xyz/">my portfolio website</a>!</h2>
