@@ -9,9 +9,9 @@
 
 <br>
 
-- 🔭 I’m currently working on [SynHost](https://synhost.de/)
-- 🔭 I’m currently working on [SynRadio](https://www.synradio.de/)
-- 👨‍💻 All of my projects are available at [my Website](https://www.fraujulian.xyz/)
+- 🔭 I’m currently working on [SynHost](https://synhost.de/)!
+- 🔭 I’m currently working on [SynRadio](https://www.synradio.de/)!
+- 👨‍💻 All of my opensource Projects are available at [my Website](https://www.fraujulian.xyz/)!
 - 🌱 I’m currently learning **C#**!
 
 <br>
@@ -19,9 +19,9 @@
 <h2 align="center">🧰 Languages | Frameworks | Tools 🧰</h2>
 <div align="center">
   <br>
-  <img src="https://skillicons.dev/icons?i=discord,github,stackoverflow,cloudflare,vscode,idea,git,nginx,docker,raspberrypi,linux,ubuntu"> 
+  <img src="https://skillicons.dev/icons?i=discord,stackoverflow,github,git,vscode,webstorm,rider,idea,linux,ubuntu,debian"> 
   <br>
-  <img src="https://skillicons.dev/icons?i=js,ts,html,css,nodejs,npm,express,pug,discordjs,dotnet,cs,mysql,sqlite"/> <br>
+  <img src="https://skillicons.dev/icons?i=js,ts,nodejs,npm,express,discordjs,dotnet,cs,mysql,sqlite,docker,nginx"/> <br>
 </div>
 
 <br>
