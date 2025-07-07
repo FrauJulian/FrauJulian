@@ -13,7 +13,7 @@
 
 <br>
 
-- 🩺 I'm currently working on [SobIT Gmbh](https://sobit.at/) projects!
+- 🩺 I'm currently working on [SobIT GmbH](https://sobit.at/) projects!
 - 💻 I'm currently working on [SynHost](https://synhost.de/)!
 - 🎶 I'm currently working on [SynRadio](https://www.synradio.de/)!
 - 🎧 I'm currently working on [Discord Audio Stream](https://www.npmjs.com/package/discord-audio-stream)!
