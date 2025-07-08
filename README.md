@@ -42,3 +42,8 @@
   <br>
   <p><img src="https://github-readme-streak-stats.herokuapp.com/?user=fraujulian&&theme=tokyonight" alt="fraujulian" /></p>
 </div>
+
+<br>
+<br>
+
+[![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/E1E21HNLDS)
