@@ -34,13 +34,14 @@
 <br>
 
 <h2 align="center">📊 Stats 📊</h2>
+<h4 align="center">Include non-public projects.</h4>
 <div align="center">
   <br>
-  <p><img src="https://github-readme-stats.vercel.app/api/top-langs?username=fraujulian&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="fraujulian" /></p>
+  <p><img src="https://github-readme-stats-git-main-fraujulians-projects.vercel.app/api/top-langs?username=fraujulian&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="fraujulian" /></p>
   <br>
-  <p><img src="https://github-readme-stats.vercel.app/api?username=fraujulian&show_icons=true&locale=en&theme=tokyonight" alt="fraujulian" /></p>
+  <p><img src="https://github-readme-stats-git-main-fraujulians-projects.vercel.app/api?username=fraujulian&show_icons=true&locale=en&theme=tokyonight" alt="fraujulian" /></p>
   <br>
-  <p><img src="https://github-readme-streak-stats.herokuapp.com/?user=fraujulian&&theme=tokyonight" alt="fraujulian" /></p>
+  <p><img src="https://github-readme-streak-stats-opal-theta-98.vercel.app/?user=fraujulian&&theme=tokyonight" alt="fraujulian" /></p>
 </div>
 
 <br>
