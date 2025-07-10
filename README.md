@@ -37,7 +37,7 @@
 <h4 align="center">Include non-public projects.</h4>
 <div align="center">
   <br>
-  <p><img src="https://github-readme-stats-git-main-fraujulians-projects.vercel.app/api/top-langs?username=fraujulian&show_icons=true&langs_count=10&hide=php,procfile&locale=en&layout=donut-vertical&theme=tokyonight" alt="fraujulian" /></p>
+  <p><img src="https://github-readme-stats-git-main-fraujulians-projects.vercel.app/api/top-langs?username=fraujulian&show_icons=true&langs_count=10&exclude_repo=github-readme-stats,github-readme-streak-stats&locale=en&layout=donut-vertical&theme=tokyonight" alt="fraujulian" /></p>
   <br>
   <p><img src="https://github-readme-stats-git-main-fraujulians-projects.vercel.app/api?username=fraujulian&show_icons=true&locale=en&theme=tokyonight" alt="fraujulian" /></p>
   <br>
